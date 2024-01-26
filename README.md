@@ -37,6 +37,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/yudi-asano-ramos/))
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:yudiasanoramos@usp.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/Yudiaramos)
+[![Linkedin](https://img.shields.io/badge/-Yudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/yudi-asano-ramos/))
+[![Gmail Badge](https://img.shields.io/badge/-yudiasanoramos@usp.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:yudiasanoramos@usp.br)
+[![GitHub](https://img.shields.io/github/followers/Yudiaramos?label=follow&style=social)](https://github.com/Yudiaramos)

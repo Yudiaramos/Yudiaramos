@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas linguagens e áreas de estudo!
 - 🎓 Estudando Engenharia de Computação na Universidade de São Paulo (USP)
-- 🌱 Aprendendo mais sobre Machine Learning e IA!
+- 🌱 Aprendendo mais sobre Machine Learning e IA. Data é vida!
 
 ## Minhas Skills
 

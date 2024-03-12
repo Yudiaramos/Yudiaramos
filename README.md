@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=Yudiaramos&color=006bed)
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas linguagens e áreas de estudo!
-- 🎓 Estudando Engenharia de Computação na Universidade de São Paulo (USP)
-- 🌱 Aprendendo mais sobre Machine Learning e IA. Data é vida!
+- 🤔 Currently exploring new languages (JavaScript and SQL)
+- 🎓 Computer Engineering student at Universidade de São Paulo (USP)
+- 🌱 Learning more about Machine Learning and AI. Data is life!
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Aplications and data**
 
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=white)
@@ -24,7 +24,7 @@
 
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -35,7 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yudiaramos&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where to find me
 
 ![Linkedin](https://img.shields.io/badge/-Yudi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/yudi-asano-ramos/))
 [![Gmail Badge](https://img.shields.io/badge/-yudiasanoramos@usp.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:yudiasanoramos@usp.br)

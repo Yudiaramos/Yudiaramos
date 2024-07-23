@@ -4,7 +4,7 @@
 
 - 🤔 Currently exploring new languages (JavaScript and SQL)
 - 🎓 Computer Engineering student at Universidade de São Paulo (USP)
-- 🌱 Learning more about Machine Learning and AI. Data is life!
+- 🌱 Learning more about Machine Learning and FrontEnd Designing and Coding.
 
 ## My Skills
 

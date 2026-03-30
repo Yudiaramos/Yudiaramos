@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 🤔 Currently exploring new languages (JavaScript and SQL)
+- 🤔 Currently exploring the new features of Claude Code and implementing skills!
 - 🎓 Computer Engineering student at Universidade de São Paulo (USP)
-- 🌱 Learning more about Machine Learning and FrontEnd Designing and Coding.
+- 🌱 Learning how to improve my prompting skills in an AI ambient.
 
 ## My Skills
 
